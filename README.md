@@ -10,4 +10,4 @@
   [GitHub repo](https://github.com/ireneloading/learning-dashboard-2.0)
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/irene-baiden/) · [Medium]https://medium.com/@ireneloading
+[LinkedIn](https://www.linkedin.com/in/irene-baiden/) · [Medium](https://medium.com/@ireneloading)
